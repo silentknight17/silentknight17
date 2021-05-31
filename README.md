@@ -8,7 +8,6 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects and be a better version of myself.
 - ⚡ Fun fact: Cricket and Sarvagya are inseperable ;)
 
-
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][https://twitter.com/jha_speshu17]
