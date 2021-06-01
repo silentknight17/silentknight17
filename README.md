@@ -11,16 +11,16 @@
 
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=silentknight17)](https://github.com/anuraghazra/github-readme-stats)-->
 
-<details>
+
 <!--<summary>:zap: Github Stats</summary>-->
 
-
+<br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=silentknight17&show_icons=true&theme=radical)
 
 
 
-</details>
+
 
 ### Connect with me:
 
