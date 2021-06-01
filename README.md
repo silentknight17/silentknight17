@@ -15,9 +15,9 @@
 <summary>:zap: Github Stats</summary>
 
  <!--<img align="left" alt="Sarvagya's Stats" src="github-readme-stats-two-sigma-62.vercel.app/api?username=silentknight17&show_icons=true&hide_border="true"/>-->
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=silentknight17)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=silentknight17&show_icons=true&theme=radical)
 
 
 
