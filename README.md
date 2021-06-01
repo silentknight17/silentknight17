@@ -5,7 +5,7 @@
 
 
 - 🌱 I’m currently learning Full Stack Web Development
-- 🥅 2021 Goals: Contribute more to Open Source projects and be a better version of myself.
+- 🥅 2021 Goals: Learn something new eahch day and become a better version of myself.
 - ⚡ Fun fact: Cricket and Sarvagya are inseperable ;)
 
 
@@ -34,6 +34,11 @@
 
 <br />
 <br />
+
+<br>
+
+![](https://komarev.com/ghpvc/?username=silentknight17&style=plastic&color=green)
+
 
 
 [twitter]: https://twitter.com/jha_speshu17
