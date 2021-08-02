@@ -1,7 +1,7 @@
 ### Hi there, I'm Sarvagya - aka Eshu 👋
 
 
-## I'm currently a pre-final year student at MNNIT Allahabad!!
+## I'm currently a Final year student at MNNIT Allahabad!!
 
 
 - 🌱 I’m currently learning Full Stack Web Development
