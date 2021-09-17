@@ -5,7 +5,7 @@
 
 
 - 🌱 I’m currently learning Full Stack Web Development
-- 🥅 2021 Goals: Learn something new eahch day and become a better version of myself.
+- 🥅 2021 Goals: Learn something new each day and become a better version of myself.
 - ⚡ Fun fact: Cricket and Sarvagya are inseperable ;)
 
 
