@@ -1,11 +1,11 @@
 ### Hi there, I'm Sarvagya - aka Eshu 👋
 
 
-## I'm currently a Final year student at MNNIT Allahabad!!
+## I'm currently a Software Engineer @ Infoedge India Ltd.
 
 
-- 🌱 I’m currently learning Full Stack Web Development
-- 🥅 2021 Goals: Learn something new each day and become a better version of myself.
+- 🌱 On a learning spree 
+- 🥅 2022 Goals: Learning and also enjoying every bit of life.
 - ⚡ Fun fact: Cricket and Sarvagya are inseperable ;)
 
 
