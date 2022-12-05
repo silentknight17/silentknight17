@@ -39,6 +39,6 @@
 
 
 
-[twitter]: https://twitter.com/jha_speshu17
-[instagram]: https://www.instagram.com/storm___pegasus/
+[twitter]: https://twitter.com/storm___pegasus
+[instagram]: https://www.instagram.com/storm___pegasus17/
 [linkedin]: https://www.linkedin.com/in/sarvagya-prateek-926b5717b/
