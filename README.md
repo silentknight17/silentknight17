@@ -5,7 +5,7 @@
 
 
 - 🌱 On a learning spree 
-- 🥅 2022 Goals: Learning and also enjoying every bit of life.
+- 🥅 2023 Goals: Continue Learning.
 - ⚡ Fun fact: Cricket and Sarvagya are inseperable ;)
 
 
