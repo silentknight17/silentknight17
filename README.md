@@ -5,7 +5,7 @@
 
 
 - 🌱 On a learning spree 
-- 🥅 2023 Goals: Continue Learning.
+- 🥅 2024 Goals: Achieve things which my family and I can be proud of. Growing at each level.
 - ⚡ Fun fact: Cricket and Sarvagya are inseperable ;)
 
 
