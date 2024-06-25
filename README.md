@@ -1,11 +1,11 @@
-### Hi there, I'm Sarvagya - aka Eshu 👋
+### Hi there, I'm Sarvagya 👋
 
 
 ## I'm currently a Software Engineer @ Infoedge India Ltd.
 
 
 - 🌱 On a learning spree 
-- 🥅 2024 Goals: Achieve things which my family and I can be proud of. Growing at each level.
+- 🥅 2024 Goals: Updating myself with the new improvements in React Js and Next Js. Learn and implement Node Js, Nginx, Docker and Kubernetes. Dive into competitive coding and Data Structures and Alogrithms.
 - ⚡ Fun fact: Cricket and Sarvagya are inseperable ;)
 
 
