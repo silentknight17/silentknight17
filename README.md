@@ -5,7 +5,7 @@
 
 
 - 🌱 On a learning spree 
-- 🥅 2024 Goals: Updating myself with the new improvements in React Js and Next Js. Learn and implement Node Js, Nginx, Docker and Kubernetes. Dive into competitive coding and Data Structures and Alogrithms.
+- 🥅 2025 Goals: Learning everyday, lend a helping hand wherever I can. Be a valuable human being on planet Earth.
 - ⚡ Fun fact: Cricket and Sarvagya are inseperable ;)
 
 
