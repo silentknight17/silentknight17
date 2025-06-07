@@ -40,5 +40,5 @@
 
 
 [twitter]: https://twitter.com/storm___pegasus
-[instagram]: https://www.instagram.com/storm____pegasus17/
+[instagram]: https://www.instagram.com/sarvagya.prateek/
 [linkedin]: https://www.linkedin.com/in/sarvagya-prateek-926b5717b/
